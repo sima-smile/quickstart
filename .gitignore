@@ -1,16 +1,12 @@
-# Default ignored files
-/.idea/workspace.xml
-
-
-#IDE
-.idea
-
-#Temporary Files
-*.log
-.DS_Store
-
-#Mail
-/mail/*
-!/mail/.gitkeep
-
-
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
