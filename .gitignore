@@ -1,0 +1,16 @@
+# Default ignored files
+/.idea/workspace.xml
+
+
+#IDE
+.idea
+
+#Temporary Files
+*.log
+.DS_Store
+
+#Mail
+/mail/*
+!/mail/.gitkeep
+
+
